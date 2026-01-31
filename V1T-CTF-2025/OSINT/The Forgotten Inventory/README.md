@@ -20,7 +20,7 @@ Format: v1t{hello.hi@ehatever.com}
 
 # Solution
 
-Online research led to a WikiLeaks dataset containing US Military Equipment inventory. Examining the CSV files revealed the sender email address associated with the leaked documents.
+Online research led to a WikiLeaks dataset, https://wikileaks.org/wiki/US_Military_Equipment_in_Iraq_(2007), containing US Military Equipment inventory. Examining the CSV files, https://wikileaks.org/wiki/Category:Series/US_Military_Equipment_in_Iraq_(2007), revealed the sender email address associated with the leaked documents.
 
 # Flag
 
