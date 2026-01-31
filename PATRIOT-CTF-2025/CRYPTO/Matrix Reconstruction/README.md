@@ -1,6 +1,6 @@
 # Challenge Name
 
-Among USniversity
+Matrix Reconstruction
 
 # Author
 
