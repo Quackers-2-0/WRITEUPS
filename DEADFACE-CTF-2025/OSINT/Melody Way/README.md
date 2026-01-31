@@ -14,7 +14,7 @@ Flag format: DEADFACE{building_name_across_the_road}
 
 # Solution
 
-The provided PNG image was reverse searched using Google Lens, revealing a location in South Korea. Additional investigation led to a nearby restaurant blog post listing the address. Cross-referencing the location on Google Maps identified the building opposite the address as D-Cube City.
+The provided image file was reverse searched using Google Lens, revealing a location in South Korea. Additional investigation led to a nearby restaurant blog post listing the address, 661 Gyeongin-ro, Guro District, Seoul, South Korea. Cross-referencing the location on Google Maps identified the building opposite the address as D-Cube City.
 
 # Flag
 
