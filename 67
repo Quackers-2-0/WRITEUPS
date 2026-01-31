@@ -1,0 +1,20 @@
+
+> Markdown allows rich formatting, and GitHub will render it natively — so anyone browsing your repo sees the write-up nicely formatted.
+
+---
+
+## 📌 4. Add a Top-Level `README.md` Like the Original
+
+The original repo doesn’t have a fancy site, but if you want to **link to all your write-ups** like many do, add a `README.md`:
+
+```markdown
+# My CTF Writeups
+
+This contains write-ups from various CTFs and challenge trainings.
+
+## Challenges
+
+### Greycademy Training
+- [Web 100](./greycademy-training-challs/web-100/writeup.md)
+- [Pwn 200](./greycademy-training-challs/pwn-200/writeup.md)
+- [Crypto 150](./greycademy-training-challs/crypto-150/writeup.md)
