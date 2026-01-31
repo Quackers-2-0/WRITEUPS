@@ -14,7 +14,7 @@ Note: Hints for this challenge cost points!
 
 # Solution
 
-OSINT hints led to the VX-Underground cat image archive. All image archives were downloaded and individually hashed using an MD5 hashing script. The image matching the target hash was identified, and its associated text revealed the final flag.
+OSINT hints from discord of the author mentioning VX-Underground led to the VX-Underground cat image archive, https://vx-underground.org/Archive/Cat%20Picture%20Collection. All image archives were downloaded and individually hashed using an MD5 hashing script. The image matching the target hash was identified it was in Cat0003.zip, and its associated text revealed the final flag.
 
 ````
 import os
