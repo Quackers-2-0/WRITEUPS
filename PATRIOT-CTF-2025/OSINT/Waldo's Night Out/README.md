@@ -18,7 +18,7 @@ Another disclaimer: please do not reach out to any phone numbers or other forms 
 
 # Solution
 
-Three locations in Northern Virginia were identified from the provided images. The first image matched an abandoned trampoline park in Sterling. The second image showed the CACI Headquarters building in Reston. The final image depicted an abandoned Sheraton hotel in Tysons. Combining the city names in order yielded the flag.
+Three locations in Northern Virginia were identified from the provided images. The first image matched an abandoned trampoline park, found an article in Sterling. The second image showed the CACI Headquarters building in Reston. The final image depicted an abandoned Sheraton hotel in Tysons. Combining the city names in order yielded the flag.
 
 # Flag
 
