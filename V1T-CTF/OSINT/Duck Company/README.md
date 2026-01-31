@@ -10,7 +10,7 @@ Flag format: v1t{example.com}
 
 # Solution
 
-The image depicted a university building. Reverse image searching identified the location as the University of Information Technology (VNU-HCM) in Vietnam, yielding the flag acronym.
+The provided image was reverse searched, revealing a commercial product belonging to The Duck Company. The official company domain matched the required flag format.
 
 # Flag
 
