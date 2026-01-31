@@ -11,7 +11,7 @@ Example: v1t{36.123456,18.789123}
 
 # Solution
 
-Military medals in the image were identified via auction listings and OSINT research. Unit 61608 was associated with FSB communication centers. Cross-referencing published documentation provided the precise geographic coordinates.
+Military medals in the image were identified via auction listings and OSINT research. Unit 61608 was associated with FSB communication centers, https://checkfirst.network/wp-content/uploads/2025/07/OSINT_Phaleristics_Unveiling_FSB_16th_Center_SIGINT_Capabilities.pdf. Cross-referencing published documentation under page 28, provided the precise geographic coordinates.
 
 # Flag
 
