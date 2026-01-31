@@ -12,7 +12,7 @@ Example: v1t{Abc_Park}
 
 # Solution
 
-A stock photography image credit identified the Thames River as a key clue. Exploring parks along the Thames River in London, Ontario led to the identification of Ivey Park.
+A stock photography image credit, https://www.shutterstock.com/image-photo/stunning-evening-view-swimming-ducks-thames-1781586122, identified the Thames River as a key clue. Exploring parks along the Thames River in London, Ontario led to the identification of Ivey Park.
 
 # Flag
 
