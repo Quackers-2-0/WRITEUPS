@@ -14,8 +14,6 @@ DEADFACE found the site and were able to compromise it and steal several sensiti
 
 First thing’s first: what is the IP address of the DEADFACE attacker? Submit the flag as deadface{X.X.X.X}.
 
-SHA256: 12345
-
 # Solution
 
 The provided file was opened using Wireshark. Reviewing the log entries revealed source IP addresses, with the first recorded log containing the correct IP address.
