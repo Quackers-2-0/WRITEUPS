@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1BDD4-_E6397He7ZUsoV0e15TRwM2tUhY/view?usp=shari
 
 # Solution
 
-Visible utility pole numbers were extracted from the image. A Japanese utility pole lookup application was used to correlate the pole ID with geographic coordinates, identifying the exact image location.
+Visible utility pole numbers were extracted from the image, 7377 8507. A Japanese utility pole lookup application was used, 電柱番号ナビ Lite版, inputed 414273778507 pole number to correlate the pole ID with geographic coordinates, identifying the exact image location.
 
 # Flag
 
