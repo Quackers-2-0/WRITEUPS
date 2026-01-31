@@ -10,7 +10,7 @@ Flag format: v1t{example.com}
 
 # Solution
 
-The provided image was reverse searched, revealing a commercial product belonging to The Duck Company. The official company domain matched the required flag format.
+The provided image was reverse searched, revealing a commercial product belonging to The Duck Company, https://www.dcuk.com/magician-duckling. The official company domain matched the required flag format.
 
 # Flag
 
