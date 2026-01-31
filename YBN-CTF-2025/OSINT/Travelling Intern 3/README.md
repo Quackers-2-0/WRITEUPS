@@ -22,7 +22,15 @@ Find the platform that the intern will be posting the next meetup location, and 
 
 # Solution
 
-A Pastebin entry protected by a password was discovered through OSINT. The password was obtained from the intern’s Instagram account. The recovered string was identified as an H3 geospatial index. Decoding the index yielded coordinates corresponding to Shanghai Pudong International Airport.
+A Pastebin entry protected by a password was discovered. The password was obtained from the intern’s Instagram account from its bio, Kr0ns7adt1!. The recovered string was identified, 88309bb635fffff, as an H3 geospatial index. Decoding the index yielded coordinates corresponding to Shanghai Pudong International Airport.
+````
+import h3
+h3_index = "88309bb635fffff"
+lat, lng = h3.cell_to_latlng(h3_index)
+
+print("Latitude:", lat)
+print("Longitude:", lng)
+````
 
 # Flag
 
