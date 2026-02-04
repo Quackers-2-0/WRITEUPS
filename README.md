@@ -27,9 +27,9 @@ Some of the events Quackers 2.0 has participated in include:
 The current roster includes:  
 - Kazikiri
 - SniperKill258
-- Nor 
-- keppers 
 - vectrization
+- Nor
+- keppers 
 - ch4ese
 
 ## 🎯 Mission
