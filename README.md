@@ -16,10 +16,10 @@ On CTFtime, the team has competed in multiple events and earned a rating that re
 
 Some of the events Quackers 2.0 has participated in include:  
 - **LA CTF 2026**
-- **UofTCTF 2026**
+- **UofT CTF 2026**
 - **TSG CTF 2025**
 - **SECCON CTF 14 Quals**
-- **PatriotCTF 2025**
+- **Patriot CTF 2025**
 - **V1t CTF 2025**
 - **DEADFACE CTF 2025**
 
