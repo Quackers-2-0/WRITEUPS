@@ -22,6 +22,8 @@ Find where he works and where he lives, description give hints such as he does c
 
 Most famous coding website/app is GitHub, start from there and search John Poor. Will find, jpoor145. 
 
+https://github.com/jpoor145
+
 README.md says he's teaching coding. Next, find other socials, found his Instagram, with the same username, jpoor145. 
 
 https://www.instagram.com/jpoor145/
