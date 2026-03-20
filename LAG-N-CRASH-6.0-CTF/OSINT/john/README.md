@@ -24,7 +24,9 @@ Most famous coding website/app is GitHub, start from there and search John Poor.
 
 README.md says he's teaching coding. Next, find other socials, found his Instagram, with the same username, jpoor145. 
 
-Image and description gave hints, koufu, and location called R&R Sojourn. 
+https://www.instagram.com/jpoor145/
+
+Image from Instagram and description of challenge gave hints, koufu, and location called R&R Sojourn. 
 
 Use Google Maps, found the apartment and koufu at a polytechnic
 
