@@ -22,19 +22,19 @@ Example
 
 Qn 1: What is the IP address of the C2 server?
 
-Hint: *.*.*.*
+Hint: ````*.*.*.*````
 
 Ans: 172.16.100.12
 
 Qn 2: What is the file name that system information is written to? Provide only the filename (e.g. index.html)   
 
-Hint: *******.***
+Hint: ````*******.***````
 
 Ans: ciminfo.txt
 
 Qn 3: What registry key does the attacker attempt to write the persistence mechanism to?
 
-Hint: ****\********\*********\*******\**************\***
+Hint: ````****\********\*********\*******\**************\***````
 
 Ans: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
 
@@ -58,13 +58,13 @@ Ans: 110.588415
 
 Qn 7: The attacker reads a confidential file on the victim workstation. What is the contents of the file?    
 
-Hint: ****************************************************************
+Hint: ````****************************************************************````
 
 Ans: 0d550b3f9c28988953197836d9f2db696db24fbb64d9dd10e7c6e4ba5003e51f
 
 Qn 8: The attacker attempted to create a new local administrator user. What is the name of the user account? 
 
-Hint: ********
+Hint: ````********````
 
 Ans: Ichinose
 
