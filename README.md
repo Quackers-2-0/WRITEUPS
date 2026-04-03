@@ -15,6 +15,7 @@ On CTFtime, the team has competed in multiple events and earned a rating that re
 ## 🏆 Recent Competitions
 
 Some of the events Quackers 2.0 has participated in include:  
+- **Lag N Crash 6.0 2026**
 - **LA CTF 2026**
 - **UofT CTF 2026**
 - **TSG CTF 2025**
