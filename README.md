@@ -32,11 +32,6 @@ The current roster includes:
 - SniperKill258
 - vectrization
 
-The former roster includes:
-- Nor
-- keppers 
-- ch4ese
-
 ## 🎯 Mission
 
 Quackers 2.0 aims to improve its cybersecurity skills through challenge-based learning, collaboration, and competition.
