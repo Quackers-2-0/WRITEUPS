@@ -26,7 +26,7 @@ Some hints from the image would be an intersection with "RXR" on the ground whic
 
 Also based of the environment of the location is suburban location, with no trees around and open land. Which leads to a few states Illinois, Indiana and Iowa. 
 
-I chose the first option. After use google maps to look around for raild road tracks and an intersection in between. 
+I chose the first option. After use google maps to look around for rail road tracks and an intersection in between. 
 
 https://trafficvision.live/ use this website and filter out the country, state and county. United States, Illinois, Grayslake.
 
