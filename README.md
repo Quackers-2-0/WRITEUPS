@@ -31,6 +31,8 @@ The current roster includes:
 - Kazikiri
 - SniperKill258
 - vectrization
+
+The former roster includes:
 - Nor
 - keppers 
 - ch4ese
