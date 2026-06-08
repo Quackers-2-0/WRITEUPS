@@ -15,10 +15,12 @@ On CTFtime, the team has competed in multiple events and earned a rating that re
 ## 🏆 Recent Competitions
 
 Some of the events Quackers 2.0 has participated in include:  
+- **Grey Cat The Flag 2026 Qualifiers 2026**
+- **BYUCTF 2026**
 - **UMDCTF 2026**
 - **Lag N Crash 6.0 2026**
 - **LA CTF 2026**
-- **UofT CTF 2026**
+- **UofTCTF 2026**
 - **TSG CTF 2025**
 - **SECCON CTF 14 Quals**
 - **Patriot CTF 2025**
