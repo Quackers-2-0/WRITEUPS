@@ -23,7 +23,7 @@ Search up Cameron Snider on Google, found his LinkedIn, personal website, GitHub
 
 # Flag
 
-byuctf{Kearney:Nebraska
+byuctf{Kearney:Nebraska}
 
 # Solved By
 
