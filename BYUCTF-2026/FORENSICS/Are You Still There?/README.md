@@ -36,18 +36,17 @@ Still alive.
 *The pcap file contains a flag for each of the following challenges: "There will be cake", "Are you still there?", "Alright. Paradox time", and "Corrupted Cores".
 
 If the flag you found doesn't work, then it most likely belongs to one of the other 3 challenges.
+
 Hint: how would you remotely check if a server is online?
 
 # Solution
 
-Example
-
-````CODE: IF APPLICABLE````
+Received a pcap file, use Wireshark. Hint was "how would you remotely check if a server is online?" It was ping, reply and request. Filter out "icmp", there are a few logs to look through, however, choose either one, reply or request. Construct each part of the flag frame by frame and it makes up into one full flag.
 
 # Flag
 
-Example{Example}
+byuctf{Turr3t_R3d3mpt!0n_L!n3s_4r3_N0t_R!d3s}
 
 # Solved By
 
-Example
+SniperKill258
