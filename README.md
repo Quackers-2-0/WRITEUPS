@@ -1,6 +1,6 @@
 # Quackers 2.0
 
-**Hello! Welcome to our CTF (Capture-The-Flag) Writeups. We are Quackers 2.0** an academic cybersecurity CTF academic team from **ITE College West**. 
+**Hello! Welcome to our CTF (Capture-The-Flag) Writeups. We are Quackers 2.0,** an academic cybersecurity CTF academic team from **ITE College West**. 
 Our team is composed of students passionate about learning and competing in cybersecurity challenges across a wide range of CTF events.
 
 ## 🧠 About
