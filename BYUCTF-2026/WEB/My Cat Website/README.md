@@ -14,7 +14,7 @@ https://cats.chals.cyberjousting.com
 
 # Solution
 
-Given a website with form to create your own cat. 
+Given a website with a form to create your own cat. 
 There was "Cat's Name", "Age" and "Color". 
 Assuming it was XSS (Cross-Site Scripting), used a simple payload. And the flag will be shown.
 
