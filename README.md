@@ -15,6 +15,7 @@ On CTFtime, our team has competed in multiple events and earned a rating that re
 ## 🏆 Recent Competitions
 
 Some of the events we have participated in includes:  
+- **BrunnerCTF 2026**
 - **Grey Cat The Flag Qualifiers 2026**
 - **BYUCTF 2026**
 - **UMDCTF 2026**
