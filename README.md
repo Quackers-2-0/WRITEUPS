@@ -18,17 +18,19 @@ Visit our [CTFtime](https://ctftime.org/team/409827) team profile to follow our 
 
 A selection of competitions we have participated in:
 
-**2026**
+**Local Competitions**
 - **Hack N' Flag 2026 - Finals**
 - **Hack N' Flag 2026 - Qualifiers**
 - **Cyber League 2026 - Playoffs**
 - **Cyber League 2026 - Major**
 - **Singapore Cyber Conquest (SCC) 2026**
-- **BrunnerCTF 2026**
 - **Grey Cat The Flag Qualifiers 2026**
+- **Lag N Crash 6.0 2026**
+
+**2026**
+- **BrunnerCTF 2026**
 - **BYUCTF 2026**
 - **UMDCTF 2026**
-- **Lag N Crash 6.0 2026**
 - **LA CTF 2026**
 - **UofTCTF 2026**
 
