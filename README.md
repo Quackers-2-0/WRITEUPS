@@ -1,8 +1,8 @@
-# Quackers 2.0
+# 🦆 Quackers 2.0 🦆
 
 **Welcome to our CTF (Capture-The-Flag) Writeups. Quackers 2.0,** is a student-led Capture The Flag (CTF) team from **ITE College West, Singapore**, dedicated to exploring cybersecurity through competitive challenges, technical research and collaborative problem-solving.
 
-## 🧠 About
+## 💾 About
 
 We actively participate in local and international CTF competitions, tackling a diverse range of cybersecurity challenges across multiple disciplines, including **Web Exploitation, Cryptography, Digital Forensics, Reverse Engineering and OSINT and more.**
 
