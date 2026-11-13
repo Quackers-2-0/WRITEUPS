@@ -14,8 +14,12 @@ On CTFtime, our team has competed in multiple events and earned a rating that re
 
 ## 🏆 Recent Competitions
 
-Some of the events we have participated in includes:  
+Some of the events we have participated in includes: 
+- **Hack N' Flag 2026 - Finals**
+- **Hack N' Flag 2026 - Qualifiers**
+- **Cyber League 2026 - Playoffs**
 - **Cyber League 2026 - Major**
+- **Singapore Cyber Conquest (SCC) 2026**
 - **BrunnerCTF 2026**
 - **Grey Cat The Flag Qualifiers 2026**
 - **BYUCTF 2026**
