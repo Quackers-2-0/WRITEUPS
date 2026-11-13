@@ -1,20 +1,24 @@
 # Quackers 2.0
 
-**Hello! Welcome to our CTF (Capture-The-Flag) Writeups. We are Quackers 2.0,** an academic cybersecurity CTF academic team from **ITE College West**. 
-Our team is composed of students passionate about learning and competing in cybersecurity challenges across a wide range of CTF events.
+**Welcome to our CTF (Capture-The-Flag) Writeups. Quackers 2.0,** is a student-led Capture The Flag (CTF) team from **ITE College West, Singapore**, dedicated to exploring cybersecurity through competitive challenges, technical research and collaborative problem-solving.
 
 ## 🧠 About
 
-We participates in both local and international CTF competitions hosted on platforms such as CTFtime. 
-Our focus is on gaining hands-on experience solving real-world security problems in areas like Web Exploitation, Cryptography, Forensics, Reverse Engineering, OSINT and more.
+We actively participate in local and international CTF competitions, tackling a diverse range of cybersecurity challenges across multiple disciplines, including **Web Exploitation, Cryptography, Digital Forensics, Reverse Engineering and OSINT and more.**
 
-## 📊 CTFtime Performance
+Through hands-on experience and collaboration, we aim to strengthen our technical capabilities, explore new attack techniques and develop practical problem-solving skills in an ever-evolving cybersecurity landscape.
 
-On CTFtime, our team has competed in multiple events and earned a rating that reflects active participation and growth in competitive cybersecurity.
+## 📊 CTFtime
 
-## 🏆 Recent Competitions
+We participate in competitions listed on CTFtime, where our team competes against participants from around the world.
 
-Some of the events we have participated in includes: 
+Visit our [CTFtime](https://ctftime.org/team/409827) team profile to follow our competition participation and performance.
+
+## 🏆 Competition History
+
+A selection of competitions we have participated in:
+
+**2026**
 - **Hack N' Flag 2026 - Finals**
 - **Hack N' Flag 2026 - Qualifiers**
 - **Cyber League 2026 - Playoffs**
@@ -27,6 +31,8 @@ Some of the events we have participated in includes:
 - **Lag N Crash 6.0 2026**
 - **LA CTF 2026**
 - **UofTCTF 2026**
+
+**2025**
 - **TSG CTF 2025**
 - **SECCON CTF 14 Quals**
 - **Patriot CTF 2025**
@@ -35,11 +41,17 @@ Some of the events we have participated in includes:
 
 ## 👥 Team Members
 
-The current roster includes:  
-- Kazikiri
-- SniperKill258
-- vectrization
+- **Kazikiri**
+- **SniperKill258**
+- **vectrization**
 
-## 🎯 Mission
+## 🎯 Our Mission
 
-Our aim is to improve our cybersecurity skills through challenge-based learning, collaboration, and competition.
+To continuously develop our cybersecurity knowledge and technical expertise through competition, experimentation and collaboration. We believe in learning through challenges, sharing knowledge and improving with every competition.
+
+
+---
+
+<p align="left">
+  <i>Learn. Compete. Collaborate. Quack.</i>
+</p>
