@@ -12,10 +12,11 @@ An image was left on a victim system containing a concealed message. Examine the
 
 # Solution
 
-1. I examined the supplied PNG rather than treating the visible picture as the entire challenge.
-2. I checked the file for hidden or additional data and found the flag in the image file.
+This one came with a PNG image and a hint that something was hidden inside it.
 
-My original notes do not preserve the precise inspection or extraction command, so I have not reconstructed one here.
+I checked the image file itself instead of only looking at what the picture showed. There was extra or concealed data in the file, and that's where the flag came from.
+
+The original command I used isn't in my old notes, so I won't pretend I remember it exactly. The useful lesson was to inspect the image as a **file**, not just as a picture.
 
 # Flag
 

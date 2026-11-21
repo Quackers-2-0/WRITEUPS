@@ -12,12 +12,11 @@ A DEADFACE user has complained on GhostTown about a malfunctioning script. Locat
 
 # Solution
 
-1. I returned to the GhostTown forum thread referenced by an earlier Hostbusters challenge.
-2. I used its clue to identify where the user had placed the relevant script on the Linux machine.
-3. After locating it, I changed its permissions sufficiently to read it.
-4. I opened the script and recovered the flag.
+This one sent me back to **GhostTown**, the forum from the Hostbusters challenges. Someone there had complained about a broken script, and that gave me a clue about what file to look for on the Linux host.
 
-My notes do not retain the exact file path or permission-change command.
+After finding the script, I adjusted the permissions so I could read it. The flag was inside the file.
+
+The hard part was connecting the forum clue to the right file on the machine. Once I knew what I was looking for, reading it was the easy part.
 
 # Flag
 

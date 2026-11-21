@@ -12,11 +12,11 @@ Using the artifacts recovered earlier in the Trojan Echoes series, find the next
 
 # Solution
 
-1. I inspected the recovered executable `sample_01E9.exe.exe` for human-readable strings.
-2. I paged through the output to locate the embedded flag, paying attention to whitespace.
-3. The matching string provided the answer.
+I had a recovered executable called `sample_01E9.exe.exe` from the earlier **Trojan Echoes** challenge. Rather than trying to run it, I checked the readable strings inside it.
 
-The original writeup records `laystrings sample_01E9.exe.exe | less`; `laystrings` may be a typo or local alias. I have not substituted an unverified command.
+I paged through the output and looked for something matching the flag format. That led to **`deadface{We_meet_again}`**.
+
+My original notes include a command named `laystrings`, but I can't confirm whether that was an alias or just a typo. The important part of my solve was inspecting strings in the executable, not executing the suspicious file.
 
 # Flag
 

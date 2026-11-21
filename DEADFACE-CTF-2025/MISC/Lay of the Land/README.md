@@ -12,14 +12,15 @@ Continue characterizing the Linux host and locate the flag associated with the H
 
 # Solution
 
-1. The wording about characterizing the environment pointed me toward environment variables.
-2. I inspected the environment of PID 1 using the command recorded in my original notes:
+The challenge was asking me to look around the Linux environment, which made me think of **environment variables**.
 
-   ```bash
-   tr '\0' '\n' </proc/1/environ | sed -n '1,200p'
-   ```
+I checked the environment belonging to process **PID 1** with this command from my old notes:
 
-3. The output contained the flag.
+```bash
+tr '\0' '\n' </proc/1/environ | sed -n '1,200p'
+```
+
+The output included the flag. I liked this one because it was a reminder that useful data can be sitting in process information, not just in files under a home directory.
 
 # Flag
 

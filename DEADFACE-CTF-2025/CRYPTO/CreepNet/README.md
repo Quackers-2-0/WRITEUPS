@@ -12,9 +12,11 @@ Network traffic shows no obvious command-and-control activity through standard c
 
 # Solution
 
-1. I inspected the provided PCAP and filtered for DNS activity.
-2. I looked at failed DNS lookups and noticed query names containing data that resembled Base64.
-3. I decoded the encoded portions and reassembled the recovered message into the flag.
+I started with the PCAP and looked at the DNS traffic. Nothing obvious was jumping out from normal web connections, so I paid more attention to the **failed DNS lookups**.
+
+Some of the requested domain names had pieces that looked like **Base64** instead of normal hostnames. I decoded the encoded parts and put them back together. That gave me the hidden message and the flag.
+
+The interesting part was that the traffic looked like DNS noise at first. The data was hidden in the names being queried, not in a normal HTTP download.
 
 # Flag
 

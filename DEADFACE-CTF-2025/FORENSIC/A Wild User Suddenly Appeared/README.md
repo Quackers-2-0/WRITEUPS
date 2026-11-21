@@ -12,9 +12,11 @@ Using the captured traffic from the MyShare incident, identify the account DEADF
 
 # Solution
 
-1. I continued examining the provided PCAP after the successful administrator login identified in the earlier challenge.
-2. I located the subsequent HTTP request to `admin.php`, where the submitted form fields showed that a new account was being created.
-3. The user-creation data exposed the first name `Dorla` and its password, which I combined into the required flag format.
+This was part of the same **MyShare** packet capture as the earlier challenges. After finding the compromised administrator login, I kept following the HTTP traffic to see what happened next.
+
+One request to `admin.php` showed someone submitting a form to create another account. The fields exposed the new user's first name, **Dorla**, and the password used for the account.
+
+Putting those two values into the required flag format gave me the answer. The nice part about this set of challenges was that each flag helped me understand a little more of the attack timeline.
 
 # Flag
 

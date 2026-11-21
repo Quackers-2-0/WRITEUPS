@@ -12,14 +12,11 @@ Look for hidden files left by the novice DEADFACE user on the remote Linux host,
 
 # Solution
 
-1. I listed the hidden directory entries using:
+After getting into the Hostbusters machine, I looked for files that didn't show up in a normal directory listing.
 
-   ```bash
-   ls -a
-   ```
+Running `ls -a` showed the hidden entries, including a file called **`.dont_forget`**. I opened it and found the flag.
 
-2. I found a hidden entry named `.dont_forget`.
-3. Inspecting that hidden file revealed the flag.
+This was one of those simple Linux tricks that's easy to overlook when you're rushing: files starting with a dot can be hidden from a normal `ls`.
 
 # Flag
 

@@ -12,9 +12,11 @@ A PCAP captures the initial probing of the MyShare web application. Find the hid
 
 # Solution
 
-1. I opened the supplied packet capture and inspected the HTTP requests.
-2. I followed the relevant HTTP exchange and looked beyond the request path and body.
-3. A nonstandard/custom HTTP header contained the flag.
+I opened the supplied packet capture and started looking through the HTTP requests. The flag wasn't in the page itself, so I followed the relevant request and response and checked the headers too.
+
+One of the **custom HTTP headers** contained the flag. It was easy to miss if I only looked at the URL or response body.
+
+This was a good reminder that an HTTP exchange has more than just the page content. Headers can contain useful evidence too.
 
 # Flag
 

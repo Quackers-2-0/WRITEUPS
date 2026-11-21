@@ -12,9 +12,11 @@ Determine the username and password of the account compromised during the MyShar
 
 # Solution
 
-1. I filtered the PCAP for HTTP requests using the `POST` method.
-2. I focused on the authentication requests associated with the administrator page.
-3. The relevant request revealed the compromised username `bsampsel` and password, giving the flag.
+I went back to the MyShare PCAP and filtered the traffic for **HTTP POST requests**. Since the challenge was asking which account had been compromised, login requests seemed like the best place to start.
+
+The administrator login traffic exposed the username **`bsampsel`** and the password **`Sparkles2025!`**. I put them together in the flag format.
+
+This showed why unprotected login traffic is such a problem: credentials can end up sitting in the packet capture for anyone who can inspect it.
 
 # Flag
 

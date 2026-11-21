@@ -12,9 +12,11 @@ Use the supplied credentials to access a remote DEADFACE Linux machine and locat
 
 # Solution
 
-1. I connected to the challenge machine over SSH with the account details supplied in the challenge.
-2. Once logged in, I inspected the files in the user’s home directory.
-3. Reading the provided text file exposed the flag.
+The challenge gave me credentials for a remote Linux machine. I used **SSH** to connect, then looked through the files in the account's home directory.
+
+A text file there contained the flag, so this was a simple starting point for the Hostbusters series.
+
+There wasn't any need for exploitation yet. The main job was to get connected and actually check what the account could access.
 
 # Flag
 

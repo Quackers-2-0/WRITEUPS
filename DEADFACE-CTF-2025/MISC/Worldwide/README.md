@@ -12,17 +12,15 @@ Investigate the other accounts and shell configuration on the Hostbusters machin
 
 # Solution
 
-I obtained this flag **incidentally**, while looking for a different Hostbusters flag; I did not follow the intended lateral-movement route.
+I found this one **by accident** while I was looking for another Hostbusters flag.
 
-1. While searching the system for flag strings, I ran the recursive grep command recorded in my notes:
+Instead of following the intended route involving the `deephax` account, I searched the files on the machine for anything that looked like a DEADFACE flag:
 
-   ```bash
-   grep -Rns "deadface{" / 2>/dev/null || true
-   ```
+```bash
+grep -Rns "deadface{" / 2>/dev/null || true
+```
 
-2. The search found the Worldwide flag.
-
-The challenge’s intended route reportedly involved the `deephax` account, but that is **not** how I solved it; I am preserving my actual approach.
+That search found the Worldwide flag too. It wasn't the challenge's intended method, but it was how I actually got the answer. Sometimes a broad search pays off before you've even worked through the proper route.
 
 # Flag
 
