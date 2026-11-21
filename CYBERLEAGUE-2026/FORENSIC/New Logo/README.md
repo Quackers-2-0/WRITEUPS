@@ -50,7 +50,11 @@ BR0_
 ZZZ}
 ```
 
-Putting those together gives the flag below. The original core dump was several gigabytes, so it isn't included with this writeup. The recovered image and script are saved in my local challenge files and can be added separately.
+Putting those together gives the flag below. The original core dump was several gigabytes, so it isn't included with this writeup. Here's the drawing recovered from the memory dump:
+
+![Recovered racing team logo](recovered_racing_team_logo.png)
+
+The solver script is kept in my local challenge files.
 
 # Flag
 
